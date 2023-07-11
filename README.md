@@ -1,3 +1,3 @@
 # life-skills-track
 
-* Created life-skills-track public repository
+Created life-skills-track public repository
