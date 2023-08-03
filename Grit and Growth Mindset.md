@@ -47,7 +47,6 @@ Recap:
 ## 7.What are your key takeaways from the video to take action on?
 
 Actions:
-
 - Assess mindset; shift from fixed to growth.
 - Set ambitious goals for learning.
 - Celebrate achievements to sustain motivation.
